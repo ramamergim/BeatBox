@@ -13,13 +13,13 @@ import android.widget.Button;
 
 import java.util.List;
 
+import static com.mergimrama.beatbox.BeatBox.TAG;
+
 /**
  * Created by Mergim on 04-Mar-18.
  */
 
 public class BeatBoxFragment extends Fragment {
-
-    public static final String TAG = "beatboxfragment";
 
     private BeatBox mBeatBox;
 
